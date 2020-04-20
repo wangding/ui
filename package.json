@@ -1,0 +1,30 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "可重用的 web UI 组件",
+  "scripts": {
+    "test": "grunt lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangding/ui.git"
+  },
+  "keywords": [
+    "ui",
+    "fork me on github",
+    "page account"
+  ],
+  "author": "wangding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangding/ui/issues"
+  },
+  "homepage": "https://github.com/wangding/ui#readme",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-csslint": "^2.0.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-eslint": "^22.0.0",
+    "grunt-htmlhint": "^0.9.13"
+  }
+}

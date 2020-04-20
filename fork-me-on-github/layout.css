@@ -1,0 +1,50 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+/*
+.wd-fmog {
+  height: 140px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 140px;
+  z-index: 10;
+}
+
+.wd-fmog-big-triangle {
+  border-bottom: solid 70px white;
+  border-left: solid 70px white;
+  border-right: solid 70px #aa0000;
+  border-top: solid 70px #aa0000;
+  box-sizing: border-box;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 140px;
+}
+
+.wd-fmog-small-triangle {
+  border-bottom: solid 50px #ffffff00;
+  border-left: solid 50px #ffffff00;
+  border-right: solid 50px white;
+  border-top: solid 50px white;
+  box-sizing: border-box;
+  height: 100px;
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100px;
+}
+
+.wd-fmog-message {
+  color: white;
+  height: 28px;
+  line-height: 28px;
+  position: fixed;
+  right: -13px;
+  top: 30px;
+  transform: rotate(45deg);
+  cursor: pointer;
+}
+*/
