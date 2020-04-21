@@ -20,7 +20,8 @@ module.exports = function (grunt) {
       target: ['./**/*.js', '!./node_modules/**/*.js']
     },
     uglify: {
-      'dist/fork-me-on-github.js': './fork-me-on-github/fork-me-on-github.js'
+      'dist/fork-me-on-github.js': './fork-me-on-github/fork-me-on-github.js',
+      'dist/bsz-page-footer.js': './bsz-page-footer/bsz-page-footer.js'
     }
   });
 
